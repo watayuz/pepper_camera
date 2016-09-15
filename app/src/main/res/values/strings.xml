@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">pepper_camera_test</string>
+    <string name="photo">take photo</string>
 </resources>
